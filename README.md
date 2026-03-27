@@ -98,9 +98,9 @@ commit j1k2l3  🎙️  Founded El Pipeline
 
 | Repo | Descripción | Status |
 |------|-------------|--------|
-| [📓 medallion-architecture-template](https://github.com/[YOUR_GITHUB_USERNAME]/medallion-architecture-template) | Bronze/Silver/Gold Databricks notebook — ready to adapt | 🟢 Live |
-| [⚡ pyspark-cheat-sheet](https://github.com/[YOUR_GITHUB_USERNAME]/pyspark-cheat-sheet) | Most-used PySpark ops: joins, windows, aggregations | 🟢 Live |
-| [🎙️ tiktok-scripts](https://github.com/[YOUR_GITHUB_USERNAME]/tiktok-scripts) | Full scripts for every El Pipeline video | 🔄 Growing |
+| [📓 medallion-architecture-template](https://github.com/elpipeline/medallion-architecture-template) | Bronze/Silver/Gold Databricks notebook — ready to adapt | 🛠️ WIP |
+| [⚡ pyspark-cheat-sheet](https://github.com/elpipeline/pyspark-cheat-sheet) | Most-used PySpark ops: joins, windows, aggregations | 🛠️ WIP |
+| [🎙️ videos-scripts](https://github.com/elpipeline/tiktok-scripts) | Full scripts for every El Pipeline video | 🔄 Growing |
 
 </div>
 
