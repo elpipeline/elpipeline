@@ -73,21 +73,30 @@ bill = {
 ## `> git log --highlights`
 
 ```
-commit a1b2c3  💰  Secured $1M+ contract with federal financial institution
-                   Designed cloud modernization roadmap → migrated on-prem 
-                   data systems to Databricks + Azure at scale.
-
-commit d4e5f6  ☁️  End-to-end cloud migrations
-                   Specialized in lifting large-scale legacy systems to 
-                   the Databricks Lakehouse architecture.
-
-commit g7h8i9  📈  ARR Predictive Modeling
-                   Built time-series & regression models to forecast Annual
-                   Recurring Revenue — directly influenced financial planning.
-
-commit j1k2l3  🎙️  Founded El Pipeline
-                   Creating the Spanish-language data engineering resource
-                   I wish existed when I was learning.
+commit a1b2c3  🏆  Databricks Solutions Architect Champion
+                   Certificación de élite en arquitectura de soluciones
+                   Databricks — más allá del DE Associate/Professional.
+ 
+commit b2c3d4  💰  Propuesta ganadora de $1.5M en gobierno
+                   Autoría de la propuesta técnica que ganó entre 28 ofertas
+                   competidoras — stack open-source: Airflow, PostgreSQL,
+                   dbt Core y Metabase para modernización de datos fiscales.
+ 
+commit d4e5f6  🏥  Arquitectura "0 a 1" en salud (EPIC FHIR + Databricks)
+                   Construyendo desde cero el data warehouse de un sistema
+                   hospitalario en Azure Databricks bajo cumplimiento PII/PHI.
+ 
+commit e5f6g7  ⚡  Migración de +3,000 modelos dbt
+                   Re-ingeniería de transformaciones Scala → SQL en dbt Core
+                   con Python UDFs, pruebas automatizadas (unit testing) y documentación.
+ 
+commit g7h8i9  📈  Modelado predictivo de ARR
+                   Modelos de series de tiempo y regresión en R para
+                   pronosticar ingresos recurrentes anuales a nivel ejecutivo.
+ 
+commit j1k2l3  🎙️  Fundador de El Pipeline
+                   El recurso de Data Engineering en español que yo hubiera
+                   querido cuando estaba aprendiendo. Sin rodeos.
 ```
 
 ---
