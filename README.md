@@ -14,7 +14,7 @@
 ╚══════╝ ╚═╝╚══════╝    ╚═╝     ╚═╝╚═╝     ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
 ```
 
-### Data Engineer · MS Data Science @ UChicago · Creator of [El Pipeline](https://elpipeline.dev)
+### Data Engineer 8+ years of Experience · MS Data Science @UChicago · Creador de [El Pipeline](https://elpipeline.dev)
 ### *Databricks & PySpark — explicados en español, sin rodeos.*
 
 <br>
@@ -30,9 +30,9 @@
 
 ## `> whoami`
 
-Data Engineer with **8+ years** building the architecture that turns raw data into competitive advantage — from on-premise legacy systems all the way to modern cloud platforms on **Azure & Databricks**.
+Ingeniero de Datos con más de 8 años construyendo arquitecturas que convierten datos en ventaja competitiva, desde sistemas "on‑premise" hasta plataformas modernas en Azure y Databricks.
 
-I started **El Pipeline** because when I was learning, there was almost no high-quality Databricks and PySpark content in Spanish. I'm fixing that — tutorials, notebooks, and resources for the Latino data engineering community. Sin rodeos.
+Creé El Pipeline porque, cuando yo estaba aprendiendo, casi no existía contenido de calidad sobre Databricks y PySpark en español. Ahora estoy cambiando eso con tutoriales, notebooks y recursos para la comunidad hispanohablante de ingeniería de datos. Sin rodeos.
 
 ```python
 bill = {
