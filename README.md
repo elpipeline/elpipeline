@@ -117,15 +117,6 @@ commit j1k2l3  🎙️  Founded El Pipeline
 
 ---
 
-## `> cat el-pipeline/README.md`
-
-> **El Pipeline** es el recurso de Data Engineering en español que yo hubiera querido cuando estaba aprendiendo.
-> Databricks, PySpark, Delta Lake, y arquitecturas de datos modernas — explicados para la comunidad hispanohablante en tech.
-
-📺 **Videos** → [elpipeline.dev](https://elpipeline.dev) · TikTok · YouTube  
-📓 **Notebooks** → Open-source, listos para usar  
-📝 **Blog** → Artículos técnicos sin rodeos
-
 ---
 
 <div align="center">
